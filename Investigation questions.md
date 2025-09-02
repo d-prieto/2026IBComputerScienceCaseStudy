@@ -1,5 +1,7 @@
 In the case study there are several questions in the air that should be addressed. Here I write some of them in short so they are more easy to digest. 
 
+This is meant to be address by students after working on the definitions
+
 ## About the hospital (MedTechPro Hospital)
 
  * It is written that is heavily reliant on technology, using electronic health records and medical devices that use IoT. To what extent is that true for regular hospitals around us? 
