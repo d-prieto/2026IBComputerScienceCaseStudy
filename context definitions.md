@@ -61,6 +61,8 @@ https://press.rebus.community/programmingfundamentals/chapter/scope/#:~:text=Sco
 
   -Black Hat --> Black hats are considered malicious hackers that exploit systems for gains or to cause damage
 
+  Source: https://www.geeksforgeeks.org/computer-networks/what-are-white-hat-gray-hat-and-black-hat-hackers/
+
   ### Vulnerabilities 
 
   ### Firewalls 
