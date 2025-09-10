@@ -35,8 +35,9 @@ References:
   sources: https://thecyberwire.com/glossary/intelligence 
 
 
-  ### Thread (in context of cybersecurity)
+  ### Threat (in context of cybersecurity)
   Cybersecuirty threats are acts performed by individuals with harmful intent, whose goal is to steal data, cause damage or to disrupt computing systems.
+  
   Source: https://www.imperva.com/learn/application-security/cyber-security-threats/
 
   ### Exploit
