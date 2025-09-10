@@ -12,6 +12,7 @@ This file has 2 intentions
 
   ### Hacker
 Hacker is a person with advanced knowledge of computer systems, networks and programming that uses his knowledge to investigate or gain unauthorized access to systems, often by exploiting vulnerabilities
+<sup><sup>Reference: https://www.techtarget.com/searchsecurity/definition/hacker#:~:text=A%20hacker%20is%20an%20individual,%2D%2D%20or%20as%20a%20hobby.</sub></sub>
   ### Internal communication (in a hospital)
 
   ### Internet of Things 
