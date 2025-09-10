@@ -23,7 +23,10 @@ References:
  https://blog.haiilo.com/blog/internal-communications-in-healthcare/ 
  
   ### Internet of Things 
+  Internet of things (IoT) refers to the network of devices with sensors, processing ability, software and the technology that connect and exchange data between devices and    the cloud, as well as between the devices themselves. This means everyday tools like toothbrushes, cars or other machines can use sensors to gather data and respond to       users.   
 
+  Sources: https://en.wikipedia.org/wiki/Internet_of_things / https://aws.amazon.com/what-is/iot/?nc1=h_ls 
+  
   ### Intelligence (in context of cybersecurity)
 
   ### Thread (in context of cybersecurity)
