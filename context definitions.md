@@ -37,6 +37,9 @@ References:
   An exploit is a piece of code or a program that is used to take advantage of security flaws or vulnerabilities found in software and/or hardware, most of the time with the goal of installing malware. An exploit isn't a malware it's a method to deliver malware.
 https://www.fortinet.com/resources/cyberglossary/exploit 
 
+Example: An example from the booklet is the SQL that could be injected into a database in order to store, retrieve and manipulate data through simple commands. (page 5)
+https://www.geeksforgeeks.org/sql/what-is-sql
+
   ### Scope 
 
   ### Engagement (in context of cybersecurity) 
