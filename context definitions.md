@@ -24,7 +24,7 @@ Hacker is a person with advanced knowledge of computer systems, networks and pro
   ### Exploit
 
   An exploit is a piece of code or a program that is used to take advantage of security flaws or vulnerabilities found in software and/or hardware, most of the time with the goal of installing malware. An exploit isn't a malware it's a method to deliver malware.
-
+https://www.fortinet.com/resources/cyberglossary/exploit 
 
   ### Scope 
 
