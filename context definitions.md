@@ -11,7 +11,7 @@ This file has 2 intentions
   ## Definitions
 
   ### Hacker
-
+Hacker is a person with advanced knowledge of computer systems, networks and programming that uses his knowledge to investigate or gain unauthorized access to systems, often by exploiting vulnerabilities
   ### Internal communication (in a hospital)
 
   ### Internet of Things 
