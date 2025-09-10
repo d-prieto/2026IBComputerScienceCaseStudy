@@ -55,6 +55,9 @@ https://www.geeksforgeeks.org/sql/what-is-sql
   ### Engagement (in context of cybersecurity) 
 
   ### Black hat - White hat 
+  -White Hat --> White hats are considered ethical hackers that improve security systems
+
+  -Black Hat --> Black hats are considered malicious hackers that exploit systems for gains or to cause damage
 
   ### Vulnerabilities 
 
