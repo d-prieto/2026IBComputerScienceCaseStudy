@@ -20,8 +20,8 @@ Hacker is a person with advanced knowledge of computer systems, networks and pro
   ### Intelligence (in context of cybersecurity)
 
   ### Thread (in context of cybersecurity)
-    A thread is the smallest unit of execution in a computer program. Also called lightweight processes as they possess some of the properties of processes. Each thread belongs to exactly one process. 
-    Source: https://www.geeksforgeeks.org/operating-systems/thread-in-operating-system/
+  A thread is the smallest unit of execution in a computer program. Also called lightweight processes as they possess some of the properties of processes. Each thread belongs to exactly one process. 
+  Source: https://www.geeksforgeeks.org/operating-systems/thread-in-operating-system/
   ### Exploit
 
   An exploit is a piece of code or a program that is used to take advantage of security flaws or vulnerabilities found in software and/or hardware, most of the time with the goal of installing malware. An exploit isn't a malware it's a method to deliver malware.
