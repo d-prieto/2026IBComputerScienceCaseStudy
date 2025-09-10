@@ -14,7 +14,14 @@ This file has 2 intentions
 Hacker is a person with advanced knowledge of computer systems, networks and programming that uses his knowledge to investigate or gain unauthorized access to systems, often by exploiting vulnerabilities
 https://www.techtarget.com/searchsecurity/definition/hacker#:~:text=A%20hacker%20is%20an%20individual,%2D%2D%20or%20as%20a%20hobby
   ### Internal communication (in a hospital)
+Internal communications in the context of a hospital refer to the digital methods used to communicate between different departments and workers.  
 
+ 
+
+References: 
+
+ https://blog.haiilo.com/blog/internal-communications-in-healthcare/ 
+ 
   ### Internet of Things 
 
   ### Intelligence (in context of cybersecurity)
