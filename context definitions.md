@@ -29,6 +29,11 @@ References:
   Sources: https://en.wikipedia.org/wiki/Internet_of_things / https://aws.amazon.com/what-is/iot/?nc1=h_ls 
   
   ### Intelligence (in context of cybersecurity)
+  
+  The term intelligence stands for knowledge of threats, developed by analyzing various sources of information.
+
+  sources: https://thecyberwire.com/glossary/intelligence 
+
 
   ### Thread (in context of cybersecurity)
   Cybersecuirty threats are acts performed by individuals with harmful intent, whose goal is to steal data, cause damage or to disrupt computing systems.
