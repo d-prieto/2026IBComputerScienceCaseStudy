@@ -30,6 +30,7 @@ https://www.workvivo.com/blog/internal-comms-for-healthcare/
 
   Sources: 
   https://en.wikipedia.org/wiki/Internet_of_things
+  
   https://aws.amazon.com/what-is/iot/?nc1=h_ls 
   
   ### Intelligence (in context of cybersecurity)
