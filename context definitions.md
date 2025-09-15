@@ -35,7 +35,7 @@ https://www.workvivo.com/blog/internal-comms-for-healthcare/
   
   ### Intelligence (in context of cybersecurity)
   
-  The term intelligence stands for knowledge in the context of cybersecurity this knowledge concerns cybersecurity threats.   It is developed by analyzing various sources of information.
+  The term intelligence stands for knowledge in the context of cybersecurity this knowledge concerns cybersecurity threats, developed by analyzing various sources of information.
 
   sources: https://thecyberwire.com/glossary/intelligence 
 
