@@ -117,7 +117,7 @@ Some users can be given administrator privliges which allow total access of an a
 Malware or viruses are malicious software that tries to steal information or block access to the user to certain functions for economic reasons. Spyware are a type of virus that retrievs passwords, tokens and personal information and sends it to a server without being seen by the user. Then a hacker can use that information and sell it on the darkweb, or blackmail the user. Ransomware blocks the users' access to the their files or computer to ask for a ransom. Trojan
 
   ### System log 
-
+A log or a type of journal of all the events that happen in the system.
   ### Actionable recommendation (what do we mean by actionable?) 
 Recommendations that the user or person reading are able of doing.
 
