@@ -92,33 +92,48 @@ https://hoxhunt.com/blog/security-engagement
   
   Sources: https://www.ncsc.gov.uk/collection/vulnerability-management/understanding-vulnerabilities
            https://en.wikipedia.org/wiki/Vulnerability
+           
   ### Firewalls 
 A piece of software (usually) that filters the information that enters and leaves in a system. They can be used to block malware. A DNS server can act as a firewall to block certain connections.
+*(From class. Should be expanded)*
 
   ### Phising 
 Impersonating a company or an individual to retrieve information or send malware. The most common type of phising is via emails that impersonate companies and try to make the user click on a link to get infected with malware.
+*(From class. Should be expanded)*
 
   ### Port (in networks)
+An entry point that can be closed or opened por a website in a computer.
+*(From class. Should be expanded)*
 
   ### IP address (v4 and v6)
-
+*(Mentioned in class, still pending)*
+  
   ### Social engineering
 Using social knowledge to gain information.
+*(From class. Should be expanded)*
 
   ### Asset (in the context of the case study)
-   Assets are something that you own in  the case of the case study it is something we can adress as hackers or protect as cyber security for example client data.
+Assets are something that you own. In the case of the case study, it is something owned by the hospital that can be adressed by hackers or protected by cybersecurity experts. Client data or the X-ray system in the hospital is an example of an asset.
+*(From class. Should be expanded)*
 
   ### SQL  (what is use in this context?)
 Simple Query Language (SQL) is a programming language to make queries in a data base, like for example "what is the best grade between the students?".
+*(From class. Should be expanded)*
 
   ### User privilege 
 Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
+*(From class. Should be expanded)*
+
   ### Malware 
 Malware or viruses are malicious software that tries to steal information or block access to the user to certain functions for economic reasons. Spyware are a type of virus that retrievs passwords, tokens and personal information and sends it to a server without being seen by the user. Then a hacker can use that information and sell it on the darkweb, or blackmail the user. Ransomware blocks the users' access to the their files or computer to ask for a ransom. Trojan
+*(From class. Should be expanded)*
 
   ### System log 
 A log or a type of journal of all the events that happen in the system.
+*(From class. Should be expanded)*
+
   ### Actionable recommendation (what do we mean by actionable?) 
 Recommendations that the user or person reading are able of doing.
+*(From class. Should be expanded)*
 
   
