@@ -54,7 +54,7 @@ Example: An example from the booklet is the SQL that could be injected into a da
 https://www.geeksforgeeks.org/sql/what-is-sql
 
   ### Scope 
-Scope is a part of a program where a particular variable, constant, function or identifier is visible and can be referenced or accessed
+Scope is a part of a program where a particular variable, constant, function or identifier is visible and can be referenced or accessed. It is what we are aiming or looking for when we want to know where in the code an element has meaning and effect
 
 https://press.rebus.community/programmingfundamentals/chapter/scope/#:~:text=Scope%20is%20the%20area%20of,is%20defined%20determines%20its%20scope.
   ### Engagement (in context of cybersecurity) 
