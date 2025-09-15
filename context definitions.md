@@ -84,7 +84,14 @@ https://hoxhunt.com/blog/security-engagement
   Source: https://www.geeksforgeeks.org/computer-networks/what-are-white-hat-gray-hat-and-black-hat-hackers/
 
   ### Vulnerabilities 
-
+  Vulnerability refers to "the quality or state of being exposed to the possibility of being attacked or harmed, either 
+  physically or emotionally."
+  
+  A vulnerability in cybersecurity is a weakness in an IT system that can be exploited by an attacker to deliver a 
+  successful   attack. They can occur through flaws, features or user error
+  
+  Sources: https://www.ncsc.gov.uk/collection/vulnerability-management/understanding-vulnerabilities
+           https://en.wikipedia.org/wiki/Vulnerability
   ### Firewalls 
 
   ### Phising 
