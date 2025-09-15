@@ -103,20 +103,22 @@ Impersonating a company or an individual to retrieve information or send malware
   ### IP address (v4 and v6)
 
   ### Social engineering
-Using social knowledge to gain information
+Using social knowledge to gain information.
 
   ### Asset (in the context of the case study)
    Assets are something that you own in  the case of the case study it is something we can adress as hackers or protect as cyber security for example client data.
 
   ### SQL  (what is use in this context?)
+Simple Query Language (SQL) is a programming language to make queries in a data base, like for example "what is the best grade between the students?".
 
   ### User privilege 
-
+Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
   ### Malware 
+Malware or viruses are malicious software that tries to steal information or block access to the user to certain functions for economic reasons. Spyware are a type of virus that retrievs passwords, tokens and personal information and sends it to a server without being seen by the user. Then a hacker can use that information and sell it on the darkweb, or blackmail the user.
 
   ### System log 
 
   ### Actionable recommendation (what do we mean by actionable?) 
-
+Recommendations that the user or person reading are able of doing.
 
   
