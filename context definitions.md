@@ -103,9 +103,10 @@ Impersonating a company or an individual to retrieve information or send malware
   ### IP address (v4 and v6)
 
   ### Social engineering
-Using social knowledge to gain
+Using social knowledge to gain information
 
   ### Asset (in the context of the case study)
+   Assets are something that you own in  the case of the case study it is something we can adress as hackers or protect as cyber security for example client data.
 
   ### SQL  (what is use in this context?)
 
