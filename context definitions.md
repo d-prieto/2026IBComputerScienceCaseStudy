@@ -73,6 +73,9 @@ Scope is a part of a program where a particular variable, constant, function or 
 https://press.rebus.community/programmingfundamentals/chapter/scope/#:~:text=Scope%20is%20the%20area%20of,is%20defined%20determines%20its%20scope.
   ### Engagement (in context of cybersecurity) 
 
+Security engagement refers to a process of security training for employees so that they can identify threats by simulating real-life attack types. 
+https://hoxhunt.com/blog/security-engagement
+
   ### Black hat - White hat 
   -White Hat --> White hats are considered ethical hackers that improve security systems
 
