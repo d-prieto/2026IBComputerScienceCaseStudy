@@ -114,7 +114,7 @@ Simple Query Language (SQL) is a programming language to make queries in a data 
   ### User privilege 
 Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
   ### Malware 
-Malware or viruses are malicious software that tries to steal information or block access to the user to certain functions for economic reasons. Spyware are a type of virus that retrievs passwords, tokens and personal information and sends it to a server without being seen by the user. Then a hacker can use that information and sell it on the darkweb, or blackmail the user.
+Malware or viruses are malicious software that tries to steal information or block access to the user to certain functions for economic reasons. Spyware are a type of virus that retrievs passwords, tokens and personal information and sends it to a server without being seen by the user. Then a hacker can use that information and sell it on the darkweb, or blackmail the user. Ransomware blocks the users' access to the their files or computer to ask for a ransom. Trojan
 
   ### System log 
 
