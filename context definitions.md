@@ -93,14 +93,17 @@ https://hoxhunt.com/blog/security-engagement
   Sources: https://www.ncsc.gov.uk/collection/vulnerability-management/understanding-vulnerabilities
            https://en.wikipedia.org/wiki/Vulnerability
   ### Firewalls 
+A piece of software (usually) that filters the information that enters and leaves in a system. They can be used to block malware. A DNS server can act as a firewall to block certain connections.
 
   ### Phising 
+Impersonating a company or an individual to retrieve information or send malware. The most common type of phising is via emails that impersonate companies and try to make the user click on a link to get infected with malware.
 
   ### Port (in networks)
 
   ### IP address (v4 and v6)
 
   ### Social engineering
+Using social knowledge to gain
 
   ### Asset (in the context of the case study)
 
