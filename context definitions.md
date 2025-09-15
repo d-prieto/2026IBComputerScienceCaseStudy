@@ -15,15 +15,29 @@ Hacker is a person with advanced knowledge of computer systems, networks and pro
 
 https://www.techtarget.com/searchsecurity/definition/hacker#:~:text=A%20hacker%20is%20an%20individual,%2D%2D%20or%20as%20a%20hobby
   ### Internal communication (in a hospital)
-Internal communications in the context of a hospital is a broad term that refers to all the methods to communicate with the employees. In the context of computer science, it refers to digital methods. This communication is used to send information between the hospital and the employees, between employees and between departments.  
+Internal communications in the context of a hospital is a broad term that refers to all the methods to communicate with the employees. In the context of computer science, it refers to digital methods. This communication is used to send information between the hospital’s system and the employees, between employees and between departments.  
 
- 
+Modern types of communication: 
+
+    Email 
+
+    Intranet systems 
+
+... missing 
+
+Old types of communication: 
+
+    Pager/Beeper 
+
+...missing 
 
 References: 
 
 https://blog.haiilo.com/blog/internal-communications-in-healthcare/ 
 
 https://www.workvivo.com/blog/internal-comms-for-healthcare/ 
+
+ 
  
   ### Internet of Things 
   Internet of things (IoT) refers to the network of devices with sensors, processing ability, software and the technology that connect and exchange data between devices and    the cloud, as well as between the devices themselves. This means everyday tools like toothbrushes, cars or other machines can use sensors to gather data and respond to       users.   
