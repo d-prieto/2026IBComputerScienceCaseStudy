@@ -130,7 +130,7 @@ Simple Query Language (SQL) is a programming language to make queries in a data 
 Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
 *(From class. Should be expanded)*
 
-Malware 
+  ### Malware 
 
 Malware (malicious software) is any software that blocks access to information in a system, disrupts the system, steals information or gains access to the system without permission. Although less common, malware also takes into account software that does not act maliciously on purpose but puts the privacy or security of a system at risk. Malware can also use the system’s resources to their advantage at the cost of the system’s performance, like Cryptominers. 
 
