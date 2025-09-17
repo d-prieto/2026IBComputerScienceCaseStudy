@@ -106,7 +106,13 @@ An entry point that can be closed or opened por a website in a computer.
 *(From class. Should be expanded)*
 
   ### IP address (v4 and v6)
-*(Mentioned in class, still pending)*
+An Internet Protocol address is a numerical label that is assigned to a device connected to a computer network that uses the Internet Protocol for communication. IP addresses serve two main functions: network interface identification, and location addressing.
+An IPv4 address has a size of 32 bits, which limits the address space to 2^32 addresses. They are usually represented in dot-decimal notation, consisting of four decimal numbers, each ranging from 0 to 255, separated by dots (such as 192.0.2.1). Each part represents a group of 8 bits of the address.
+In IPv6, the address size was increased to 128 bits, providing up to 2^128 addresses.
+
+Sources: https://en.wikipedia.org/wiki/IP_address
+
+
   
   ### Social engineering
 Using social knowledge to gain information.
