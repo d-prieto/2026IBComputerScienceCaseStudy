@@ -130,9 +130,44 @@ Simple Query Language (SQL) is a programming language to make queries in a data 
 Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
 *(From class. Should be expanded)*
 
-  ### Malware 
-Malware or viruses are malicious software that tries to steal information or block access to the user to certain functions for economic reasons. Spyware are a type of virus that retrievs passwords, tokens and personal information and sends it to a server without being seen by the user. Then a hacker can use that information and sell it on the darkweb, or blackmail the user. Ransomware blocks the users' access to the their files or computer to ask for a ransom. Trojan
-*(From class. Should be expanded)*
+Malware 
+
+Malware (malicious software) is any software that blocks access to information in a system, disrupts the system, steals information or gains access to the system without permission. Although less common, malware also takes into account software that does not act maliciously on purpose but puts the privacy or security of a system at risk. Malware can also use the system’s resources to their advantage at the cost of the system’s performance, like Cryptominers. 
+
+Types of malware: 
+
+    Computer virus: replicates itself in the persistent memory and/or modifies code of programs of a computer. 
+
+    Computer worm: replicates itself in other computers. 
+
+    Trojan: camouflages itself as a regular program to pass under the user’s suspicion. 
+
+    Spyware: malware that retrieves personal information and sends it to a server or a computer for a cybercriminal to access and blackmail or steal from the user. 
+
+    Adware: a type of malware that displays ads without the users consent or knowledge. It can act as spyware sometimes. 
+
+    Ransomware: a malicious program that encrypts the user’s data to force them to pay a ransom if they want their data back. 
+
+    Keyloggers: 
+
+ 
+
+References: 
+
+https://en.wikipedia.org/wiki/Malware 
+https://www.malwarebytes.com/es/malware 
+
+https://en.wikipedia.org/wiki/Spyware 
+
+https://en.wikipedia.org/wiki/Ransomware 
+
+https://en.wikipedia.org/wiki/Adware 
+
+https://en.wikipedia.org/wiki/Computer_virus 
+
+https://en.wikipedia.org/wiki/Computer_worm 
+
+https://en.wikipedia.org/wiki/Trojan_horse_(computing) 
 
   ### System log 
 A log or a type of journal of all the events that happen in the system.
