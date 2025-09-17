@@ -133,7 +133,10 @@ A log or a type of journal of all the events that happen in the system.
 *(From class. Should be expanded)*
 
   ### Actionable recommendation (what do we mean by actionable?) 
-Recommendations that the user or person reading are able of doing.
-*(From class. Should be expanded)*
+Actionable recommendations are specific, realistic, and measurable suggestions that help clients achieve their goals and solve their problems. In this context, it is a concrete and feasible measure a hospital can take to strengthen cybersecurity. By actionable we refer to a measure that can be used as a reason for doing something.
+
+Sources:
+https://www.linkedin.com/advice/3/how-can-you-develop-skill-providing-actionable-63kic
+https://dictionary.cambridge.org/dictionary/english/actionable
 
   
