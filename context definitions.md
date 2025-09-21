@@ -107,6 +107,8 @@ There are 8 types of firewalls:
 - Virtual: Software that runs in private or public clouds to secure apps and data, with centralized controls and advanced protection.
 - Cloud-native: Modern firewalls that have automated scaling features, cloud-native firewalls that enable networking operations and security operations teams to run at agile speed.
 
+https://www.cisco.com/site/us/en/learn/topics/security/what-is-a-firewall.html
+
   ### Phising 
 Impersonating a company or an individual to retrieve information or send malware. The most common type of phising is via emails that impersonate companies and try to make the user click on a link to get infected with malware.
 *(From class. Should be expanded)*
@@ -150,8 +152,8 @@ Assets are something that you own. In the case of the case study, it is somethin
 
   ### SQL  (what is use in this context?)
 Simple Query Language (SQL) is a programming language to make queries in a data base, like for example "what is the best grade between the students?".
-*(From class. Should be expanded)*
-
+It also can instert, update or delete existing data, change the structure of databases and manage permissions, such as controlling who can see / change what in the database
+https://www.w3schools.com/sql/sql_intro.asp
   ### User privilege 
 Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
 *(From class. Should be expanded)*
