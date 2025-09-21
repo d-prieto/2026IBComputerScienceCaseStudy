@@ -102,8 +102,24 @@ Impersonating a company or an individual to retrieve information or send malware
 *(From class. Should be expanded)*
 
   ### Port (in networks)
-An entry point that can be closed or opened por a website in a computer.
-*(From class. Should be expanded)*
+An entry point that can be closed or opened by a website in a computer. In computer science a port is a virtual point where connections starts and ends , allowing computers to can distinguish between different types of network on the same device and allowing apps to share information, but not all ports are the same , each port is associated  with a specific proccess or service.Ports are a software that are at the level of the of the operating system and port numbers are 16-bit unasinged integers.
+
+There are transport protocols that use port numbers, the 2 most common transport protocols are Transmision Control Protocol(TCP) and User datagram Protocol(UDP).
+
+Why ports are important for cybersecurity?
+
+Ports are really important in cybersecurity because they work as a communicator for the devices and the applications ,that when this ports are improperly secured allow attackers exploit this vulnerabilities to gain unauthorized access.
+
+sources
+
+https://medium.com/@saksheebapat_47568/port-essentials-a-quick-guide-for-future-soc-analysts-1eaa92892034
+
+https://en.wikipedia.org/wiki/Port_(computer_networking)
+
+https://www.cloudflare.com/learning/network-layer/what-is-a-computer-port/
+
+
+
 
   ### IP address (v4 and v6)
 An Internet Protocol address is a numerical label that is assigned to a device connected to a computer network that uses the Internet Protocol for communication. IP addresses serve two main functions: network interface identification, and location addressing.
