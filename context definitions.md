@@ -175,14 +175,20 @@ A log or a type of journal of all the events that happen in the system,network o
 "Basically systems logs records all the details of a computer"
 
 This tool is very helpful because:
+
 -Error detection: It allow the programer to find out why a program fails 
+
 -Security:detec suspicius activity(like unauthorized access or repeated failed logins) 
+
 -computer-history:track how did what and when they did it 
+
 -FORENSICS:allows the administrator about a cyberatack or a incident providing evidence 
 
 
 sources:
+
 https://aws.amazon.com/what-is/log-files/#:~:text=A%20system%20log%20records%20operating,%2C%20warnings%2C%20and%20unexpected%20shutdowns.
+
 https://searchinform.com/articles/cybersecurity/measures/log-management/system-log/
 
   ### Actionable recommendation (what do we mean by actionable?) 
