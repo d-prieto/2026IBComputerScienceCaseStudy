@@ -95,7 +95,17 @@ https://hoxhunt.com/blog/security-engagement
            
   ### Firewalls 
 A piece of software (usually) that filters the information that enters and leaves in a system. They can be used to block malware. A DNS server can act as a firewall to block certain connections.
-*(From class. Should be expanded)*
+There are 8 types of firewalls:
+
+- Packet filtering: Filters packets of data based on ip addresses, port numbers, and protocol types.
+- Proxy: Works as a middleman from one network to another for a specific application, addiitionally provides additional functionality, such as content caching and security
+- Stateful inspection: Filters traffic by either allowing or blocking traffic based on state, port, and protocol.
+- Web application Firewall (WAF): Handles all communication requests on behalf of the internal network.
+- Unified threat management (UTM): Mixes firewall, intrusion prevention, and antivirus in one device.
+- Next-generation firewall (NGFW): Has capabilities that go beyond traditional firewalls such as application awareness and control, intrusion prevention system (IPS), URL filtering based on geolocation and reputation, and threat intelligence.
+- AI-powered: Firewalls that use artificial intelligence (AI) and machine learning (ML) to enhance threat protection and network security.
+- Virtual: Software that runs in private or public clouds to secure apps and data, with centralized controls and advanced protection.
+- Cloud-native: Modern firewalls that have automated scaling features, cloud-native firewalls that enable networking operations and security operations teams to run at agile speed.
 
   ### Phising 
 Impersonating a company or an individual to retrieve information or send malware. The most common type of phising is via emails that impersonate companies and try to make the user click on a link to get infected with malware.
