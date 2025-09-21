@@ -180,7 +180,7 @@ This tool is very helpful because:
 
 -Security:detec suspicius activity(like unauthorized access or repeated failed logins) 
 
--computer-history:track how did what and when they did it 
+-computer-history:track who did what and when they did it 
 
 -FORENSICS:allows the administrator about a cyberatack or a incident providing evidence 
 
