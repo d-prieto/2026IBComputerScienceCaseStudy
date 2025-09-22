@@ -147,8 +147,7 @@ Using social knowledge to gain information.
 *(From class. Should be expanded)*
 
   ### Asset (in the context of the case study)
-Assets are something that you own. In the case of the case study, it is something owned by the hospital that can be adressed by hackers or protected by cybersecurity experts. Client data or the X-ray system in the hospital is an example of an asset.
-*(From class. Should be expanded)*
+Generally, assets are something that you own. In the case of this case study, assets are valuable resources or components owned by the hospital that can be used by hackers or protected by cybersecurity experts. In out case assets are: Patient data, Medical devices, IoT equipment, network infrastructure of the hospital.
 
   ### SQL  (what is use in this context?)
 Simple Query Language (SQL) is a programming language to make queries in a data base, like for example "what is the best grade between the students?".
