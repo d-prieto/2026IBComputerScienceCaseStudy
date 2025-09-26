@@ -7,10 +7,12 @@ Simulating a hacker attack with different stages of knowlegde.
 ### Black box penetration testing approach 
 // go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
 -no information
+-actual state of breaches-> has to find information online
 
 ### White box penetration testing approach
 // go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
 -all the information
+-faster-> worst case scenario
 
 
 ### Grey box penetration testing approach
