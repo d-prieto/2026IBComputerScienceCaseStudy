@@ -1,17 +1,21 @@
 ### Electronic Health Record (EHR)
 
 ## Penetration test 
+Simulating a hacker attack with different stages of knowlegde.
 ### Penetration testing execution standard 
 
 ### Black box penetration testing approach 
 // go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
+-no information
 
 ### White box penetration testing approach
 // go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
+-all the information
 
 
 ### Grey box penetration testing approach
 // go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
+-something inbetween
 
 
 ## Data integrity 
