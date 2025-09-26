@@ -154,8 +154,9 @@ Simple Query Language (SQL) is a programming language to make queries in a data 
 It also can instert, update or delete existing data, change the structure of databases and manage permissions, such as controlling who can see / change what in the database
 https://www.w3schools.com/sql/sql_intro.asp
   ### User privilege 
-Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base.
-*(From class. Should be expanded)*
+Some users can be given administrator privliges which allow total access of an asset. For example, in a website administrators can access the data base. User privileges define what actions a user is allowed to perform within a system or intranet - such as viewing, editing, deleting, or approving content. They are often tied to job roles, departments, or security levels.
+In case of the hospital the head of the IT sector will be the administrator and not the head doctor of the hospital.
+https://www.simplifyit.com/definitions/user-privileges/
 
   ### Malware 
 
