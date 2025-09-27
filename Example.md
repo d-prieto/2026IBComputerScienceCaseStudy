@@ -7,6 +7,17 @@ Please use images, diagrams (remember diagrams.net), references. Try to explain 
 
 (please don't use AI for generate the images, pretty please)
 
+Depending on the topic this will be slightly different but a structure that you can follow:
+
+- Find a short definition. Probably that will need to be expanded and explained so other students can understand it.
+- While you research save your references (that's why it's not a good idea to use AI for this). We will need them later. 
+- Now that you understand the idea, maybe is time to find / do an image to represent it. (Don't use AI). We're visual animals and even if is a meme it will be easier for everybody to understand the concept. Try to find something that is tied to the concept that you're explaining.
+- Now go back to the booklet and find the word in the context. With the definition that you have is it tied to the context of the booklet? If not, you need to find another part. If it's somewhat tied probably you will need some paragraphs to join it. (How can it be used in this context? is it worth it? does it have any nuances? is it connected to other concepts?)
+- Separate your ideas in paragraphs.
+- Add your references at the end. 
+
+
+
 Here you have an example of an extended example from M25 that I did myself. 
 
 
