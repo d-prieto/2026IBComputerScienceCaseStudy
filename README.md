@@ -6,5 +6,6 @@ This is made by me and my students in Hamelin Laie Computer Science to share wit
 You will find:
  - [The Case study pdf](https://github.com/d-prieto/2026IBComputerScienceCaseStudy-/blob/main/booklet.pdf)
  - [Context definitions](https://github.com/d-prieto/2026IBComputerScienceCaseStudy/blob/main/context%20definitions.md)
+ - [Example of what I expect from a full definition research](https://github.com/d-prieto/2026IBComputerScienceCaseStudy/blob/main/Example.md)
  - [Definitions](https://github.com/d-prieto/2026IBComputerScienceCaseStudy/blob/main/definitions.md)
  - [Investigation questions](https://github.com/d-prieto/2026IBComputerScienceCaseStudy/blob/main/Investigation%20questions.md)
