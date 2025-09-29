@@ -8,21 +8,11 @@ Simulating a hacker attack with different stages of knowlegde.
 ### Penetration testing execution standard 
 
 ### Black box penetration testing approach 
-// go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
--no information
--actual state of breaches-> has to find information online
-
+Tester has no internal knowledge and acts like an external hacker. It's the most realistic way to measure what an outsider has access to and what vulnerabilities come with it. But it's slower to find deep flaws and may miss vulnerabilities
 ### White box penetration testing approach
-// go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
--all the information
--faster-> worst case scenario
-
-
+Tester is given full access to the source code, configs, architecture and even credentials, so they can find flaws in the system internally simulating an attack from the inside. Although it is not realistic for external threat simulations.
 ### Grey box penetration testing approach
-// go beyond what is on the booklet because you're suposed to evaluate this agains the other 2
--something inbetween
-
-
+Tester receives limited internal information so they can find flaws partially priviledged attackers would exploit. It's a good in-between balancing costs and speed. 
 ## Data integrity 
 
 ## Rules of engagement
