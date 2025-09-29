@@ -26,6 +26,9 @@ the practice of collecting and analyzing information from publicly available sou
 
 This involves gathering data from sources such as websites, social media, news outlets, and public records to identify patterns, assess threats, and inform decision-making in various fields, including cybersecurity, national security, and business. 
 
+in the context of cybersecurity: Many organizations use OSINT as a cybersecurity tool to help gauge security risks and identify vulnerabilities in their IT systems. Cybercriminals and hackers also use OSINT techniques for social engineering, phishing and exposing targets for cyberattacks.
+
+
 sources 
 
 https://www.sans.org/blog/what-is-open-source-intelligence
