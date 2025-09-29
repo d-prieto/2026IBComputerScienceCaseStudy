@@ -1,7 +1,10 @@
 ### Electronic Health Record (EHR)
 Computer system that collects, stores and manages patient health data such as medical history, diagnoses, treatments and test results. This systen allows secure access and exchange between different medical centers
 
-https://www.iso.org/healthcare/electronic-health-records#:~:text=An%20electronic%20health%20record%20(EHR)%20is%20a%20digital%20repository%20of,%2C%20settings%2C%20treatments%20and%20conditions.
+<img width="980" height="626" alt="image" src="https://github.com/user-attachments/assets/8b85da75-2180-46ac-83bc-7aa6b270cbef" />
+
+
+Reference: https://www.iso.org/healthcare/electronic-health-records#:~:text=An%20electronic%20health%20record%20(EHR)%20is%20a%20digital%20repository%20of,%2C%20settings%2C%20treatments%20and%20conditions.
 
 ## Penetration test 
 Simulating a hacker attack with different stages of knowlegde.
