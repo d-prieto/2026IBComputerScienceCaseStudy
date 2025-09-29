@@ -27,7 +27,9 @@ the practice of collecting and analyzing information from publicly available sou
 This involves gathering data from sources such as websites, social media, news outlets, and public records to identify patterns, assess threats, and inform decision-making in various fields, including cybersecurity, national security, and business. 
 
 sources 
+
 https://www.sans.org/blog/what-is-open-source-intelligence
+
 https://www.ibm.com/think/topics/osint
 
 ## Search engine dorking
