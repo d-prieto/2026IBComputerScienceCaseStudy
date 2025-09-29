@@ -206,11 +206,11 @@ This tool is very helpful because:
 
 -Error detection: It allow the programer to find out why a program fails 
 
--Security:detec suspicius activity(like unauthorized access or repeated failed logins) 
+-Security:detect suspicious activity (like unauthorized access or repeated failed logins) 
 
 -computer-history:track who did what and when they did it 
 
--FORENSICS:allows the administrator about a cyberatack or a incident providing evidence 
+-FORENSICS:allows the administrator know  about a cyberatack or a incident providing evidence 
 
 
 sources:
