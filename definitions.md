@@ -11,11 +11,25 @@ Simulating a hacker attack with different stages of knowlegde.
 ### Penetration testing execution standard 
 
 ### Black box penetration testing approach 
-Tester has no internal knowledge and acts like an external hacker. It's the most realistic way to measure what an outsider has access to and what vulnerabilities come with it. But it's slower to find deep flaws and may miss vulnerabilities
+Tester has no provided information whatsoever, the tester follows the approach of an unprivileged attacker meaning the tester has no prior knowledge / no insider information.
+
+Strengths: This scenario can be seen as the most authentic, demonstrating how an attacker with no inside knowledge would target and compromise an organisation, its the most realistic option 
+
+Weaknesess: It is really costly since it requires more time and effort for discovery. The tester may miss deeper flaws from within the system.
+
 ### White box penetration testing approach
-Tester is given full access to the source code, configs, architecture and even credentials, so they can find flaws in the system internally simulating an attack from the inside. Although it is not realistic for external threat simulations.
+It involves sharing full network and system information with the tester, including network maps and credentials. Usefull for simulating a targeted attack on a specific system utilising as many attack vectors as possible.
+
+Strengths: Allows in-depth analysis of code, architecture, and security controls. Its fast to uncover vulnerabilities and exploits
+
+Weaknesess: Not realistic from an outsider threat. May be unrealistic since hackers don't normally have that much information
+
 ### Grey box penetration testing approach
-Tester receives limited internal information so they can find flaws partially priviledged attackers would exploit. It's a good in-between balancing costs and speed. 
+Only limited information is shared with the tester. Usually this takes the form of login credentials. Grey box testing is useful to help understand the level of access a privileged user could gain and the potential damage they could cause.
+
+Strengths: Grey box tests strike a balance between depth and efficiency and can be used to simulate either an insider threat or an attack that has breached the network perimeter.
+
+Weaknesess: May overlook some external vulnerabilities or may miss very deep flaws only visible through complete code access.
 
 Source: https://www.redscan.com/news/types-of-pen-testing-white-box-black-box-and-everything-in-between/
 
