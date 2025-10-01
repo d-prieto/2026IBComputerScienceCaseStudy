@@ -60,10 +60,35 @@ https://www.ibm.com/think/topics/osint
 
 ## Network scanning
 
+Network scanning is a proccess that involves finding active devices in a network by sending signals and checking the responses. It's mainly used for monitoring, management, and spotting vulnerabilities. This process is necessary to protect networks from cyberattacks, it's an essential network security tool and should be performed regularly since most of the time cyberattacks happen daily,
+
+https://www.techtarget.com/searchnetworking/definition/network-scanning 
+
 ## Network mapping 
+
+Network mapping is the process of developing visual representations of a network's physical and logical structure, including all of te devices that are connected.
+
+Example of a network map;
+
+<img width="1024" height="769" alt="image" src="https://github.com/user-attachments/assets/e110b318-9e57-45c7-aaad-aae067bedfbd" />
+
+https://faddom.com/network-mapping-tools/#:~:text=Network%20mapping%20is%20the%20process,vulnerabilities%2C%20and%20troubleshoot%20issues%20efficiently.
 
 ## Network topologies 
 
+Network topology refers to the logical and physical structure of a computer network's nodes and connections that control data flow between devices. Network topology is an important in network design and management since it affects network performance, security, and scalability.
+
+Types:
+
+- Point-to-point topology
+- Bus topology
+- Ring topology
+- Star topology
+- Tree topology
+- Mesh topology
+- Hybrid topology
+
+https://www.ibm.com/think/topics/network-topology
 ## Port scanning
 
 ## OS detection 
