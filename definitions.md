@@ -46,9 +46,9 @@ They safeguarde the companies infrastructure and customer data. RoE define the b
 
 It consists of the following parts 
 - scope definition (what systems, networks, and data can be tested or accessed)
-- authorization ( by fx chief of IT) 
+- authorization ( f.x. not by the hospital director but by the chief of IT) 
 - communication protocols (who needs to be informed before, during, and after activities) 
-- testing methods and limitations (f.x you might be allowed to do phishing but not a Denial of service attack which can   disrupt operations) 
+- testing methods and limitations (f.x you might be allowed to do phishing but not a Denial of service attack which can disrupt operations) 
 - data handling and confidentiality ( how data uncoverd during penetration testing is stored, encrypted, shared, and eventually destroyed) 
 - Incident handling procedures (If a tester discovers a live security breach unrelated to the current engagement) 
 - exit criteria and reporting requirements (explaining what was done, what was found, and recommendations for remediation) 
