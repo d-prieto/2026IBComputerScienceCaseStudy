@@ -29,14 +29,15 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC8136763/
 ## Rules of engagement
 Rules of engagement describe a companies unified rules for users who want to do penetration testing on a companies online assets.They are the safety net that ensures security activities are effective, ethical, and legally sound. 
 They safeguarde the companies infrastructure and customer data. RoE define the boundaries, expectations, and communication standards between all parties involved.
+
 It consists of the following parts 
--scope definition (what systems, networks, and data can be tested or accessed) 
--authorization ( by fx chief of IT) 
--communication protocols (who needs to be informed before, during, and after activities) 
--testing methods and limitations (f.x you might be allowed to do phishing but not a Denial of service attack which can   disrupt operations) 
--data handling and confidentiality ( how data uncoverd during penetration testing is stored, encrypted, shared, and eventually destroyed) 
--Incident handling procedures (If a tester discovers a live security breach unrelated to the current engagement) 
--exit criteria and reporting requirements (explaining what was done, what was found, and recommendations for remediation) 
+- scope definition (what systems, networks, and data can be tested or accessed)
+- authorization ( by fx chief of IT) 
+- communication protocols (who needs to be informed before, during, and after activities) 
+- testing methods and limitations (f.x you might be allowed to do phishing but not a Denial of service attack which can   disrupt operations) 
+- data handling and confidentiality ( how data uncoverd during penetration testing is stored, encrypted, shared, and eventually destroyed) 
+- Incident handling procedures (If a tester discovers a live security breach unrelated to the current engagement) 
+- exit criteria and reporting requirements (explaining what was done, what was found, and recommendations for remediation) 
 
 https://www.microsoft.com/en-us/msrc/pentest-rules-of-engagement?msockid=32adca13ccda6ffc2263dc44cdb16e79 
 https://isosecu.com/blog/rules-of-engagement  
