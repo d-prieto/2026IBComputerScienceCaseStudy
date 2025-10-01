@@ -88,6 +88,9 @@ Types:
 - Mesh topology
 - Hybrid topology
 
+<img width="1024" height="536" alt="image" src="https://github.com/user-attachments/assets/80a8245a-cb96-409b-bd4b-91d1bd042425" />
+
+
 https://www.ibm.com/think/topics/network-topology
 ## Port scanning
 
