@@ -166,7 +166,7 @@ Types of malware:
 
     Computer virus: replicates itself in the persistent memory and/or modifies code of programs of a computer. 
 
-    Computer worm: replicates itself in other computers. 
+    Computer worm: replicates itself from one computer to another. 
 
     Trojan: camouflages itself as a regular program to pass under the user’s suspicion. 
 
@@ -176,13 +176,18 @@ Types of malware:
 
     Ransomware: a malicious program that encrypts the user’s data to force them to pay a ransom if they want their data back. 
 
-    Keyloggers: 
+    Keyloggers: a malware that receives the key inputs from the user’s keyboard and stores them to steal personal information. It can also be a hardware device 
+
+    Logic bomb: a malicious program that only activates once some conditions are met.  
+
+    Rogue software: a malware that misleads the user into thinking the computer is infected to get them to download or pay for a false program that is the real virus. 
 
  
 
 References: 
 
 https://en.wikipedia.org/wiki/Malware 
+
 https://www.malwarebytes.com/es/malware 
 
 https://en.wikipedia.org/wiki/Spyware 
@@ -196,6 +201,10 @@ https://en.wikipedia.org/wiki/Computer_virus
 https://en.wikipedia.org/wiki/Computer_worm 
 
 https://en.wikipedia.org/wiki/Trojan_horse_(computing) 
+
+https://en.wikipedia.org/wiki/Keystroke_logging 
+
+https://en.wikipedia.org/wiki/Rogue_security_software 
 
   ### System log 
 A log or a type of journal of all the events that happen in the system,network or apps. this tool records everything that happens into a computer like system changes,startup messages ,warnings, errors,unexpected shutdowns, etc.
