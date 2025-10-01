@@ -18,9 +18,10 @@ Tester is given full access to the source code, configs, architecture and even c
 Tester receives limited internal information so they can find flaws partially priviledged attackers would exploit. It's a good in-between balancing costs and speed. 
 ## Data integrity 
 Data integrity is a concept and process that ensures the accuracy, consistency and validity of an organization’s data. Organizations not only ensure the integrity of the data but guarantee they have accurate and correct data in their database.
+In a hospital, data integrity can include keeping patient's private information, health report, diagnostic reports, and other records. The management of such data is a difficult task for health professionals. Attackers specifically target healthcare sub‐domains to manipulate valuable data. 
 
 Source: https://www.fortinet.com/resources/cyberglossary/data-integrity
-
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8136763/
 
 ## Rules of engagement
 Rules of engagement describe a companies unified rules for users who want to do penetration testing on a companies online assets.They are the safety net that ensures security activities are effective, ethical, and legally sound. 
