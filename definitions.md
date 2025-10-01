@@ -16,6 +16,9 @@ Tester has no internal knowledge and acts like an external hacker. It's the most
 Tester is given full access to the source code, configs, architecture and even credentials, so they can find flaws in the system internally simulating an attack from the inside. Although it is not realistic for external threat simulations.
 ### Grey box penetration testing approach
 Tester receives limited internal information so they can find flaws partially priviledged attackers would exploit. It's a good in-between balancing costs and speed. 
+
+Source: https://www.redscan.com/news/types-of-pen-testing-white-box-black-box-and-everything-in-between/
+
 ## Data integrity 
 Data integrity is a concept and process that ensures the accuracy, consistency and validity of an organization’s data. Organizations not only ensure the integrity of the data but guarantee they have accurate and correct data in their database.
 In a hospital, data integrity can include keeping patient's private information, health report, diagnostic reports, and other records. The management of such data is a difficult task for health professionals. Attackers specifically target healthcare sub‐domains to manipulate valuable data. 
