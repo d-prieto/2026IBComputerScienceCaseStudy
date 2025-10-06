@@ -3,6 +3,7 @@ Computer system that collects, stores and manages patient health data such as me
 
 <img width="500" height="320" alt="image" src="https://github.com/user-attachments/assets/8b85da75-2180-46ac-83bc-7aa6b270cbef" />
 
+An EHR database can contain several interconnected databases. One for patients (with personal data and other information), another for diagnoses, another for appointments, prescriptions, lab results etc. Eachr record is linked with a unique patient ID, allowing medical workers instantly see the whole medical history for their patient and update it securely after the visit. 
 
 Reference: https://www.iso.org/healthcare/electronic-health-records#:~:text=An%20electronic%20health%20record%20(EHR)%20is%20a%20digital%20repository%20of,%2C%20settings%2C%20treatments%20and%20conditions.
 
