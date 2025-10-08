@@ -123,6 +123,58 @@ https://www.fortinet.com/resources/cyberglossary/what-is-port-scan
 
 ## OS detection 
 
+OS detection is a technique that basically detects the OS (operating system) of a specific device using a target network usign the TCP/IP stack of a device that it would be like its fingerprint. By sending probes and examining the responses, these tools compare the results against a database of known OS fingerprints to determine the most likely OS, which is valuable for finding vulnerabilities and understanding a target system for network security and penetration testing.
+
+1. Passive OS Detection(Pof
+
+   
+This method involves analyzing network traffic that is already flowing, without sending any new packets.
+
+What it analyzes: The distinctive characteristics of the headers of packets sent by the target system. Key elements include:
+
+TTL (Time To Live): The initial value of the TTL field (e.g., Windows often starts at 128, while many Linux systems start at 64).
+
+Window Size: The size of the TCP window advertised by the host, which is often unique to a specific OS and version.
+
+DF (Don't Fragment) Bit: Whether the system sets this bit, which differs between operating systems.
+
+2. Active OS Detection (Nmap)
+   
+This method involves sending specially crafted network packets (often unusual or non-standard) to the target machine and analyzing how the target system responds.
+
+What it analyzes: The responses to these unusual packets. Common tests include:
+
+TCP Initial Sequence Number (ISN) Sampling: Analyzing how predictable the target's random number generation is for the ISN.
+
+IP ID Sequence Generation: Examining the pattern of the IP ID field in fragmented packets.
+
+TCP Options and Flags: Checking which non-standard TCP options the host supports or how it responds to unusual flag combinations
+
+IN THE CONTEXT OF CYERSECURITY:
+
+Operating System (OS) Fingerprinting is the process of analyzing data packets which originate from a network in an attempt to glean intelligence to be used in later attacks. By detecting which operating system a network operates on, hackers have an easier time targeting known vulnerabilities. OS Fingerprinting can also collect configuration attributes from remote devices. This type of recon attack is usually the first step in a larger, persistent effort. Networks running old, outdated, or unpatched Operating Systems became big targets when attackers spot their weakness.
+
+How to prevent it:
+
+The best way to prevent fingerprinting is to limit the types of traffic that your network accepts and responds to, as well as tightly control what information your network returns. By blocking timestamps, echo replies, and address masks, admins can greatly reduce the usefulness of information that attackers can exfiltrate. Our team of certified engineers can help you reduce attack surfaces on your network and ensure that your firewall and operating system are as stealth as possible.
+
+
+
+IMPORTANT CONCEPTS:
+
+TCP (Transmission Control Protocol): Ensures reliable, error-free communication. It establishes a connection before sending data, divides it into packets, numbers them, and ensures that they all arrive correctly.
+
+IP (Internet Protocol): Responsible for addressing and routing packets across different networks. 
+
+
+
+sources
+
+https://www.youtube.com/watch?v=dSgHEL-MO3I
+
+https://www.firewalls.com/blog/security-terms/os-fingerprinting/#:~:text=There%20are%20two%20types%20of,or%20actions%20against%20the%20network.
+
+
 ## Vishing 
 
 ## Pretexting 
