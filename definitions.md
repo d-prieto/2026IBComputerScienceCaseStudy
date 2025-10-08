@@ -126,6 +126,20 @@ https://www.fortinet.com/resources/cyberglossary/what-is-port-scan
 ## Vishing 
 
 ## Pretexting 
+Pretexting is the use of a fabricated story, or pretext, to gain a victim’s trust and trick or manipulate them into sharing sensitive information, downloading malware or others,harming themselves or the organization they work for.
+Healthcare data is often referred to as some of the most sensitive and valuable information in the world. This includes:
+- Personal Health Information: Data such as medical records, test results, prescriptions, and diagnoses.
+- Personally Identifiable Information: Information like names, addresses, social security numbers, and health insurance details.
+- Payment and Insurance Information: Data related to insurance policies, billing, and payment history.
+These attacks can lead to data breaches, loss of patient trust, legal ramifications, and significant financial losses. 
+Examples of pretexting attacks in healthcare:
+- Impersonating a doctor or nurse.
+- Impersonating insurance representatives
+- Fake internal requests for data access
+
+Sources:
+https://www.ibm.com/think/topics/pretexting
+https://www.cyberly.org/en/how-do-pretexting-attacks-affect-healthcare-organisations-and-their-data-security/index.html
 
 ## Security posture assessment 
 
