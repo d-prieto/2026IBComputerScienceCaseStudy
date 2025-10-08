@@ -176,6 +176,15 @@ https://www.firewalls.com/blog/security-terms/os-fingerprinting/#:~:text=There%2
 
 
 ## Vishing 
+Vishing (voice phishing) is described as a phishing attack through telephone call services. Vishing shares the same characteristics as phishing, impersonating a company employee or an individual to retrieve personal information, but through a call. Vishing attacks can also persuade the user to perform transactions by deceiving them. The call can be live, or it can be an automated text-to-speech system. The attackers will commonly impersonate employees of important jobs like banks, police or internet providers and will commonly propose an urgent problem that gives the user no time to think of the veracity of the caller.  
+
+In contrast with phishing in which malware is the most common attack, it is rare and difficult that through vishing attacks malware is downloaded, as it should persuade the user to search on the internet and mislead them into downloading malware. For this reason, vishing attacks ask for relevant personal information like credit card information.  
+
+To avoid being tracked by authorities if catched, vishing fraudsters may try to cover their real IP and phone number, like by using called ID spoofing. 
+
+References: 
+
+https://en.wikipedia.org/wiki/Voice_phishing 
 
 ## Pretexting 
 Pretexting is the use of a fabricated story, or pretext, to gain a victim’s trust and trick or manipulate them into sharing sensitive information, downloading malware or others,harming themselves or the organization they work for.
