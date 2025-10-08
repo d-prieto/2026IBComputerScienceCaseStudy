@@ -207,6 +207,10 @@ https://www.cyberly.org/en/how-do-pretexting-attacks-affect-healthcare-organisat
 
 ## Security posture assessment 
 
+Security posture assesment is an examination of the internal (protection within the network, e.g., firewalls, access controls, employee security policies, internal systems) and external (protection agaisnt external threats, e.g., perimeter firewalls, intrusion detection, anti-DDoS systems, public-facing servers) security of an organization to asses how prepared the company is in terms of cybersecurity and its ability to protect its assets, data, and operations from cyber threats. Once the situation of the cybersecurity protection systems are analyzed improvements are reccomended to improve even further the security and protection.
+
+https://www.picussecurity.com/resource/glossary/what-is-security-posture-assessment
+
 ## Social engineering attack 
 A social engineering attack refers to a wide range of attacks that leverage human interaction and emotions to manipulate the target. During the attack, the victim is deceived into giving away personal/sensitive information or compromising security.
 
