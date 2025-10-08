@@ -202,10 +202,12 @@ Vishing (voice phishing) is described as a phishing attack through telephone cal
 In contrast with phishing in which malware is the most common attack, it is rare and difficult that through vishing attacks malware is downloaded, as it should persuade the user to search on the internet and mislead them into downloading malware. For this reason, vishing attacks ask for relevant personal information like credit card information.  
 
 To avoid being tracked by authorities if catched, vishing fraudsters may try to cover their real IP and phone number, like by using called ID spoofing. 
+<img width="1960" height="1240" alt="Vishing-980x620px-1252439291" src="https://github.com/user-attachments/assets/48a9ad40-7a6d-4793-a9ce-911839096cbe" />
 
 References: 
 
 https://en.wikipedia.org/wiki/Voice_phishing 
+Image from: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.textmagic.com%2Fwp-content%2Fuploads%2F2023%2F10%2FVishing-980x620px.png&f=1&nofb=1&ipt=c0935417c4d4e4fdfe306e88d6060775c6a29eb15f404fc058b7ec10d854b1d3
 
 ## Pretexting 
 Pretexting is the use of a fabricated story, or pretext, to gain a victim’s trust and trick or manipulate them into sharing sensitive information, downloading malware or others,harming themselves or the organization they work for.
