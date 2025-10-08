@@ -148,8 +148,12 @@ The process often begins with vulnerability assessment, where researchers or att
 
 <img width="667" height="500" alt="image" src="https://github.com/user-attachments/assets/54da8850-237c-4b79-9a6d-9ede7243c2e4" />
 
-Structure or an exploit:
+Structure or an exploit / context definitions:
+
+
 <img width="614" height="273" alt="image" src="https://github.com/user-attachments/assets/6c7ced31-9ddc-40a2-859e-19b61ddb2c4e" />
+
+
 Vulnerabilities
 Vulnerabilities refer to weaknesses or flaws in a system, application, or protocol. They represent points where an attacker can insert or execute malicious code, bypass security measures, or perform unauthorized actions. Vulnerabilities can come from software bugs, inadequate security controls, misconfigurations, or even unintended features.
 
