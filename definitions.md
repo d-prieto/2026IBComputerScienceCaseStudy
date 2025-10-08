@@ -130,6 +130,9 @@ https://www.fortinet.com/resources/cyberglossary/what-is-port-scan
 ## Security posture assessment 
 
 ## Social engineering attack 
+A social engineering attack refers to a wide range of attacks that leverage human interaction and emotions to manipulate the target. During the attack, the victim is deceived into giving away personal/sensitive information or compromising security.
+
+A social engineering attack usually takes place in multiple steps: The attacker will first research the potential victim and gather the necessary information about them. This information can be put to use to bypass security protocols or get information. Then the attacker will try to gain the Victim's trust before finally manipulating the victim into giving in to sensitive information or violating security policies.
 
 ## Network attack
 
