@@ -131,8 +131,10 @@ Healthcare data is often referred to as some of the most sensitive and valuable 
 - Personal Health Information: Data such as medical records, test results, prescriptions, and diagnoses.
 - Personally Identifiable Information: Information like names, addresses, social security numbers, and health insurance details.
 - Payment and Insurance Information: Data related to insurance policies, billing, and payment history.
+  
 These attacks can lead to data breaches, loss of patient trust, legal ramifications, and significant financial losses. 
 Examples of pretexting attacks in healthcare:
+
 - Impersonating a doctor or nurse.
 - Impersonating insurance representatives
 - Fake internal requests for data access
