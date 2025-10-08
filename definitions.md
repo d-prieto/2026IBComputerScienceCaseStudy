@@ -208,6 +208,7 @@ Examples of pretexting attacks in healthcare:
 
 Sources:
 https://www.ibm.com/think/topics/pretexting
+
 https://www.cyberly.org/en/how-do-pretexting-attacks-affect-healthcare-organisations-and-their-data-security/index.html
 
 ## Security posture assessment 
