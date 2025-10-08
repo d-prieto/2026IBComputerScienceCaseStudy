@@ -163,6 +163,22 @@ How to prevent it:
 
 The best way to prevent fingerprinting is to limit the types of traffic that your network accepts and responds to, as well as tightly control what information your network returns. By blocking timestamps, echo replies, and address masks, admins can greatly reduce the usefulness of information that attackers can exfiltrate. Our team of certified engineers can help you reduce attack surfaces on your network and ensure that your firewall and operating system are as stealth as possible.
 
+IN THE CONTEXT OF A HOSPITAL: OS detection takes on a critical role in managing security, compliance, and interoperability across a wide array of specialized devices.
+
+The operating systems in a hospital aren't just limited to desktop computers; they include everything from patient monitoring systems to diagnostic equipment.
+
+OS Detection in Healthcare: Key Applications
+
+1. Security and Vulnerability Management
+   
+This is the most critical use, especially since healthcare data is a prime target for cyberattacks.
+
+Risk Assessment: Hospitals use OS detection to maintain an up-to-date inventory of all connected devices (often called the "asset inventory"). This allows the security team to identify devices running outdated or unsupported operating systems (like older versions of Windows embedded in medical devices).
+
+Targeted Patching: Knowing the exact OS and version allows administrators to quickly and accurately deploy security patches only to the devices that need them, minimizing downtime for critical equipment.
+
+Segmentation: By fingerprinting the OS of different devices, the network can be segmented (separated). If a piece of aging radiology equipment running an old OS can't be patched, it can be isolated on its own network segment to prevent it from becoming a bridge for malware to reach the main patient record system (EHR).
+
 
 
 IMPORTANT CONCEPTS:
