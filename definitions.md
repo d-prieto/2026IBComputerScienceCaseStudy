@@ -72,6 +72,11 @@ https://www.sans.org/blog/what-is-open-source-intelligence
 https://www.ibm.com/think/topics/osint
 
 ## Search engine dorking
+Using advanced search operators in the search engine to find publicly available information that should be private. This can include server credentials, private documents and databases that were incorrectly protected. This is very similar to OSINT. 
+
+References:  
+
+https://www.forbes.com/sites/technology/article/google-dorking/ 
 
 ## Network scanning
 
