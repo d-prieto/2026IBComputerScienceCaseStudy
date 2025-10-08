@@ -134,6 +134,8 @@ A social engineering attack refers to a wide range of attacks that leverage huma
 
 A social engineering attack usually takes place in multiple steps: The attacker will first research the potential victim and gather the necessary information about them. This information can be put to use to bypass security protocols or get information. Then the attacker will try to gain the Victim's trust before finally manipulating the victim into giving in to sensitive information or violating security policies.
 
+Source: https://www.fortinet.com/resources/cyberglossary/social-engineering
+
 ## Network attack
 
 ## Exploit development 
