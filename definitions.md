@@ -139,6 +139,33 @@ Source: https://www.fortinet.com/resources/cyberglossary/social-engineering
 ## Network attack
 
 ## Exploit development 
+Exploit:
+An exploit is a code that takes advantage of a software vulnerability or security flaw.
+
+Exploit development is a specialized area within the field of cybersecurity that focuses on discovering and utilizing software vulnerabilities. At its core, it involves analyzing software to find weak spots and then crafting exploits. This could be to gain unauthorized access, escalate privileges, or achieve other objectives.
+
+The process often begins with vulnerability assessment, where researchers or attackers identify potential weak points in software. Once a vulnerability is identified, the exploit developer crafts code to specifically target that vulnerability. The developed exploit is then tested and refined until it can reliably bypass security measures and achieve its intended effect.
+
+<img width="667" height="500" alt="image" src="https://github.com/user-attachments/assets/54da8850-237c-4b79-9a6d-9ede7243c2e4" />
+
+Structure or an exploit:
+<img width="614" height="273" alt="image" src="https://github.com/user-attachments/assets/6c7ced31-9ddc-40a2-859e-19b61ddb2c4e" />
+Vulnerabilities
+Vulnerabilities refer to weaknesses or flaws in a system, application, or protocol. They represent points where an attacker can insert or execute malicious code, bypass security measures, or perform unauthorized actions. Vulnerabilities can come from software bugs, inadequate security controls, misconfigurations, or even unintended features.
+
+Exploit techniques
+Exploit techniques define the 'how' of the exploitation process. Each technique provides a different method of leveraging a vulnerability to achieve a desired outcome. Familiarity with these techniques enables both the development of effective exploits and the creation of defenses against them.
+
+Shellcode & payloads
+Shellcode is a small piece of code used as the payload in the exploitation process. It often provides a command shell to the attacker, hence the name. Payloads, on the other hand, refer to the actual malicious data or actions that the attacker wants to deliver and execute on the target system.
+
+Once a vulnerability is exploited, the shellcode or payload is what achieves the attacker's final objective. Whether it's creating a backdoor, initiating a ransomware attack, or stealing data, the payload dictates the endgame of the exploit. The shellcode serves as the bridge, facilitating the delivery and execution of this payload.
+
+
+Sources:
+https://www.offsec.com/cyberversity/exploit-development/
+https://github.com/paulveillard/cybersecurity-exploit-development/blob/main/README.md
+
 
 ## SQL injection 
 
