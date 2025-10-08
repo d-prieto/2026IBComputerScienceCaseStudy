@@ -256,7 +256,7 @@ The most common types of attacks hackers execute are:
 
 To prevent those types of attacks cybersecurity specialists, use strong security measures such as firewalls, intrusion detection systems, and encryption to protect data during the transit. They regularly update the software; in case there is a vulnerability in there. In a closed network, they usually limit user access through least privilege policies.
 
-<img width="852" height="660" alt="image" src="https://github.com/user-attachments/assets/35117165-2265-491b-bdf3-9e8b72ffda4f" />
+<img width="660" height="512" alt="image" src="https://github.com/user-attachments/assets/35117165-2265-491b-bdf3-9e8b72ffda4f" />
 
 Reference: https://www.cynet.com/network-attacks/network-attacks-and-network-security-threats/
 
