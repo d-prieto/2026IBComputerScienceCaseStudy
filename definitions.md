@@ -244,6 +244,22 @@ Source: https://www.fortinet.com/resources/cyberglossary/social-engineering
 
 ## Network attack
 
+A network attack is any intentional action taken to compromise security, availability, integrity or confidentiality of a computer network or the systems and data that are connected to that network. Usually, to execute a network attack, hackers exploit vulnerabilities in hardware, software or human factors to gain unauthorized access to the data. The goal of a network attack can be stealing sensitive data, disrupting services and infrastructure, modifying or falsifying information, establishing consistent access to the system (backdoor), gathering information for later attacks.
+
+The most common types of attacks hackers execute are:
+
+- Denial of Service (DoS) -> Distributed DoS – overwhelm resources to crash the servers
+- IP / DNS spoofing – falsifying network identity
+- Packet sniffing – capturing unencrypted traffic
+- Port scanning – probing to discover services and vulnerabilities
+- A man in the middle - it invlolves attackers intercepting traffic, either between your network and external sites or within your network
+
+To prevent those types of attacks cybersecurity specialists, use strong security measures such as firewalls, intrusion detection systems, and encryption to protect data during the transit. They regularly update the software; in case there is a vulnerability in there. In a closed network, they usually limit user access through least privilege policies.
+
+<img width="852" height="660" alt="image" src="https://github.com/user-attachments/assets/35117165-2265-491b-bdf3-9e8b72ffda4f" />
+
+Reference: https://www.cynet.com/network-attacks/network-attacks-and-network-security-threats/
+
 ## Exploit development 
 Exploit:
 An exploit is a code that takes advantage of a software vulnerability or security flaw.
