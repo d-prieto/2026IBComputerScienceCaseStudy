@@ -336,6 +336,23 @@ https://en.wikipedia.org/wiki/Cross-site_scripting#:~:text=Cross%2Dsite%20script
 
 ## Buffer overflow attack 
 
+A buffer overflow attack happens when an attacker sends more data to a buffer (a temporary data storage area in memory) than it can hold. This overflow causes the excess data to overwrite adjacent memory, corrupting data, crashing the system, or allowing the attacker to execute malicious code in the program. This attack targets flaws in software that do not properly validate or limit input size before storage.
+
+Programs allocate fixed-size buffers for data, but if the program does not check the size of the input before copying data into the buffer, an overflow occurs. An attacker exploits this by sending excess data that overwrites memory critical for the program's execution flow, redirecting the program to run malicious payloads.
+
+Types of buffer overflow attacks:
+
+Stack overflow: occurs when too much data is written to a buffer located on the stack, causing it to overwrite nearby memory. This allows attackers to redirect the program's flow 
+
+Heap overflow: writes excess data into the heap memory area, corrupting dynamically allocated memory. Attackers can corrupt data structures, pointers, or function calls maintained by the heap
+
+Integer overflow: Exploits vulnerabilities related to arithmetic operations that cause unexpected buffer sizes. Attackers use integer overflows to bypass bounds checks, trigger vulnerabilities, or force improper memory allocation
+
+Sources:
+https://www.fortinet.com/resources/cyberglossary/buffer-overflow
+https://www.imperva.com/learn/application-security/buffer-overflow/
+
+
 ## Pasword cracking tools 
 
 ## Privilege escalation
