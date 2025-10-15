@@ -367,9 +367,9 @@ Common attack types
 - Credential stuffing – use of leaked username and password pair from one site to attempt logins on another site. For example, a password was leaked from a facebook account, the software will try to use the same credential for google account etc
 - GPU cracking – use of GPUs to achieve huge computing power. All the power is used to initiate parallel hashing. Since GPUs have a lot of simple cores optimized to do the same calculation many times in parallel, it is going to decrease the time taken to hash the password.
 
-<img width="458" height="216" alt="image" src="https://github.com/user-attachments/assets/fc771029-ab92-4139-991b-a51cf472f9ce" />
+<img width="700" height="330" alt="image" src="https://github.com/user-attachments/assets/fc771029-ab92-4139-991b-a51cf472f9ce" />
 
-This is a picture of a popular password cracking tool called THC-Hydra. It's main function is using of brute force to crack passwords) 
+This is a picture of a popular password cracking tool called THC-Hydra. It's main function is use of brute force to crack passwords) 
 
 Defenses against password cracking tools
 
@@ -377,7 +377,7 @@ Defenses against password cracking tools
 - Rate limit or block repeated failed login attempts – monitor and alert on any suspicious activity (effective against brute force and hybrid attack)
 - Use long and unrepeatable passwords – use a password with special symbols, numbers, characters and without any real words
 
-References: https://www.beyondtrust.com/blog/entry/password-cracking-101-attacks-defenses-explained#:~:text=Password%20Cracking%20Defined&text=Password%20hacking%20uses%20a%20variety,to%20as%20'password%20crackers'.
+References: https://www.beyondtrust.com/blog/entry/password-cracking-101-attacks-defenses-explained#:~:text=Password%20Cracking%20Defined&text=Password%20hacking%20uses%20a%20variety,to%20as%20'password%20crackers
 
 
 ## Privilege escalation
