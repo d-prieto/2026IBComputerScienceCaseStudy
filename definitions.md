@@ -314,6 +314,7 @@ Source: https://www.koenig-solutions.com/blog/system-forensics-incident-handling
 
 ## Security posture assessment 
 
+
 ## Response plan 
 
 
