@@ -359,6 +359,19 @@ Security posture assessment helps prevent incidents. System forensics helps inve
 Source: https://www.picussecurity.com/resource/glossary/what-is-security-posture-assessment#:~:text=A%20security%20posture%20assessment%20is,the%20likelihood%20of%20successful%20cyberattacks.
 
 ## Response plan 
+A cyber-attack response plan is a strategy to follow to prepare for, detect, and respond to a cyber-attack. This is essential to minimize the damage caused by a cyber-attack. Without it, the employees won’t be prepared and combined with a lack of organization chaos might reign.  
 
+The response plan sometimes starts before the attack, in prevention. This comes in the form of training, backups, failover systems, and emergency protocols, among others. 
+
+A general structure for  the response plan is: 
+
+ <img width="1156" height="349" alt="imagen" src="https://github.com/user-attachments/assets/a83d2dc3-45fe-40d9-8adb-b9753669faa1" />
+
+
+ 
+
+References: 
+
+https://www.ncsc.gov.uk/collection/incident-management/cyber-incident-response-processes 
 
 
