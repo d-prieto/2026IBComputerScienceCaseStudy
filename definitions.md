@@ -382,6 +382,14 @@ References: https://www.beyondtrust.com/blog/entry/password-cracking-101-attacks
 
 ## Privilege escalation
 
+Privilege escalation is a cyberattack that is specifically designed to gain non authorized access to a system in which the attacker elevates or modifies their access in a target system, for example, by switching from a basic user account with less privilege to an administrator account with more privilege.  Privilege escalation works by first gaining access to low privilege account through different techniques such as credential theft or phising, once the attacker is in, the atacker look for ways to gain privileged access from inside the system.
+
+Types:
+
+Horizontal privilege escalation or lateral movement is the process through which an attacker gains access to an account with a similar level of permissions. Moving horizontally allows hackers to increase their reach in order to obtain more information and cause more harm, even while they do not obtain additional permissions.
+
+Vertical privilege escalation or privilage elevation is changing from a basic user account to one with administrative powers, often in order to advance from lower to greater privileges. 
+
 ## System forensics 
 System forensics is the process of collecting, preserving, analyzing, and presenting digital evidence from computer systems and networks to determine what happened during a security incident or crime.
 System forensics branches off from digital forensics, its especially focused on operating systems, file systems, logs, and memory. 
