@@ -355,6 +355,30 @@ https://www.imperva.com/learn/application-security/buffer-overflow/
 
 ## Pasword cracking tools 
 
+Password cracking tools are special software that automate attempts to crack or recover a password for an account. They use different techniques to match candidate passwords against a protected target such as authentication endpoint or a password hash (mathematical representation of the password with the hash function. It translates password like Password123 into a fixed length of string of characters). These tools can initiate from exhaustive search to using a list of common passwords and precomputed mappings (table with premade password and hash pair).
+
+Common attack types
+
+- Brute force - try every possible combination of characters until certain length. It is extremely long and time consuming. Only used for short or low-complexity passwords or with massive computing power for larger passwords.
+- Dictionary attack – try words and phrases from a prepared list (often with common or leaked variations). This method is effective against very weak and human chosen passwords
+- Hybrid attack – combination of dictionary attack and applying small modifications such as adding more characters like numbers, changing case, repeating characters.
+- Rainbow-table/Precomputed attacks – use of precomputed tables mapping hashes to plaintext to speed up recovery. It’s effective only against weakly stored hashes or people with the same passwords (since hashes of the same passwords are also the same)
+- Credential stuffing – use of leaked username and password pair from one site to attempt logins on another site. For example, a password was leaked from a facebook account, the software will try to use the same credential for google account etc
+- GPU cracking – use of GPUs to achieve huge computing power. All the power is used to initiate parallel hashing. Since GPUs have a lot of simple cores optimized to do the same calculation many times in parallel, it is going to decrease the time taken to hash the password.
+
+<img width="458" height="216" alt="image" src="https://github.com/user-attachments/assets/fc771029-ab92-4139-991b-a51cf472f9ce" />
+
+This is a picture of a popular password cracking tool called THC-Hydra. It's main function is using of brute force to crack passwords) 
+
+Defenses against password cracking tools
+
+- Enable multi factor authentication – without a code that updates regularly a hacker can not have access to your account
+- Rate limit or block repeated failed login attempts – monitor and alert on any suspicious activity (effective against brute force and hybrid attack)
+- Use long and unrepeatable passwords – use a password with special symbols, numbers, characters and without any real words
+
+References: https://www.beyondtrust.com/blog/entry/password-cracking-101-attacks-defenses-explained#:~:text=Password%20Cracking%20Defined&text=Password%20hacking%20uses%20a%20variety,to%20as%20'password%20crackers'.
+
+
 ## Privilege escalation
 
 ## System forensics 
