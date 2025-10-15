@@ -407,7 +407,7 @@ The response plan sometimes starts before the attack, in prevention. This comes 
 
 A general structure for  the response plan is: 
 
- <img width="1156" height="349" alt="imagen" src="https://github.com/user-attachments/assets/a83d2dc3-45fe-40d9-8adb-b9753669faa1" />
+ <img width="1156" height="349" alt="imagen" src="https://github.com/user-attachments/assets/a83d2dc3-45fe-40d9-8adb-b9753669faa1" background ="FFFF"/>
 
 
  
