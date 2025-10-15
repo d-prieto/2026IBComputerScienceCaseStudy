@@ -350,6 +350,7 @@ Integer overflow: Exploits vulnerabilities related to arithmetic operations that
 
 Sources:
 https://www.fortinet.com/resources/cyberglossary/buffer-overflow
+
 https://www.imperva.com/learn/application-security/buffer-overflow/
 
 
