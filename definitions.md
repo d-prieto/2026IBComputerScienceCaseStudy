@@ -305,6 +305,12 @@ https://github.com/paulveillard/cybersecurity-exploit-development/blob/main/READ
 ## Privilege escalation
 
 ## System forensics 
+System forensics is the process of collecting, preserving, analyzing, and presenting digital evidence from computer systems and networks to determine what happened during a security incident or crime.
+System forensics branches off from digital forensics, its especially focused on operating systems, file systems, logs, and memory. 
+
+Common Forensics sources--> Hard drives and file systems, event and audit logs, registry entries, memory dumps, network traffic captures.
+
+Source: https://www.koenig-solutions.com/blog/system-forensics-incident-handling
 
 ## Security posture assessment 
 
