@@ -349,7 +349,14 @@ Common Forensics sources--> Hard drives and file systems, event and audit logs, 
 Source: https://www.koenig-solutions.com/blog/system-forensics-incident-handling
 
 ## Security posture assessment 
+A security posture assessment is an in-depth examination of an organization’s internal and external defenses to evaluate its overall cybersecurity readiness. It supports cybersecurity planning by identifying gaps, measuring the effectiveness of existing controls, and informing risk-based strategies.
 
+The goal of doing a security posture assesment is to determine the organization's ability to protect its assests/data from cyberattacks and threats. By doing this you enhance the organization's cybersecurity resilience.
+
+Relating to System forensics: 
+Security posture assessment helps prevent incidents. System forensics helps investigate them when they happen.
+
+Source: https://www.picussecurity.com/resource/glossary/what-is-security-posture-assessment#:~:text=A%20security%20posture%20assessment%20is,the%20likelihood%20of%20successful%20cyberattacks.
 
 ## Response plan 
 
