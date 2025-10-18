@@ -33,7 +33,19 @@ This is meant to be address by students after working on the definitions
    ---
    Answer 1
 
-   References:
+in the context of a hsopital theres is a lot of data apart from the patient data that should be protected, such as:
+
+-operational and infraestructure data: This category covers the information needed to run the hospital, manage facilities, and ensure systems are secure.
+
+-financial and hospital business data: Hospitals are large businesses that handle vast amounts of proprietary financial and contractual information.
+
+-Strategic and Reputation Data: This information involves the high-level planning and evaluation of the hospital's services.
+
+ References:
+
+   https://www.tonic.ai/blog/what-is-data-privacy-in-healthcare-everything-you-need-to-know#:~:text=But%20just%20what%20counts%20as,and%20genetic%20information%20for%20patients
+
+   https://www.hycu.com/blog/what-you-need-know-about-data-protection-healthcare#:~:text=Data%20protection%20in%20healthcare%20is%20the%20set,information%20*%20Support%20continuous%2C%20uninterrupted%20patient%20care
    
    ---
    Answer 2
