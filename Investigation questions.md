@@ -8,8 +8,12 @@ This is meant to be address by students after working on the definitions
 
    ---
    Answer 1
+Yes regular hospitals in spain are also heabily reliant of rechnology and use health recodres and medical devices using iot. For example most hospitals in spain use Spain’s Historia Clínica Digital del SNS (HCDSNS), which is a digital health record which enables regions to share core information nationally. Furthermore most hospital use interconnected technologies such as patien monitors, buldpumps etc.A typical U.S. hospital has between 10 and 15 medical devices per bed, which means a 1,000-bed hospital could have around 15,000 medical devices. Those devices include imaging devices, clinical IoT devices, and surgery devices.
+
 
    References:
+   https://www.sanidad.gob.es/areas/saludDigital/home.htm
+   https://www.hipaajournal.com/63pc-known-exploited-vulnerabilities-hospital-networks/?utm_source=chatgpt.com
    
    ---
    Answer 2
