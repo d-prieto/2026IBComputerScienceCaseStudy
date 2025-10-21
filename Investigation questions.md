@@ -25,7 +25,10 @@ Yes regular hospitals in spain are also heabily reliant of rechnology and use he
    ---
    Answer 1
 
+Assessing the privacy of sensitive patient information is key to building trust in healthcare, and protecting data from unauthorized access or disclosure. Regulatory frameworks such as the Health Insurance Portability and Accountability Act (HIPAA) in the US and the General Data Protection Regulation (GDPR) in the EU strictly enforce the ethical handling of patient data, ensuring privacy as the priority of healthcare organisations. If these organisations fail to ensure the privacy of patients, they can face legal consequences imposed by the abovementioned frameworks.
+
    References:
+   https://searchinform.com/articles/data-management/privacy/type/patient-data-privacy/
    
    ---
    Answer 2
