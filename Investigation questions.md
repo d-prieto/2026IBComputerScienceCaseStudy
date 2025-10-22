@@ -65,8 +65,9 @@ in the context of a hsopital theres is a lot of data apart from the patient data
 
    ---
    Answer 1
+In the context of CyberHealth Security company, the most appropriate approach for testing hospital's system would be grey box testing. It provides ethical balance between realism and data integrity. Since black box testing simulates how a real hacker would try to violate system's security, a hacker can disrupt some crucial medical services like life support of some patients. On the other hand, a white box testing, which gives full internal access to configurations and data, could compromise patient's sensitive data, making it less ethical and less representative of real world attacks. The grey box testing will be the most effective as it provides both black and white box methods. The black box method tests hospital's external facing systems such as online portals or remote access points, while white box testing would be applied to internal infrastructure systems such as EHR, databases and IoT devices, using fake data and limited credentials.
 
-   References:
+   References: https://github.com/d-prieto/2026IBComputerScienceCaseStudy/blob/main/definitions.md
    
    ---
    Answer 2
