@@ -56,7 +56,7 @@ in the context of a hsopital theres is a lot of data apart from the patient data
    
    ---
    Answer 2
-   
+   (Max)
 All patient data is worth protecting in the healthcare context, however data can be categorized into electronically Protected Health Information (ePHI) of which consits of data such as: Medical and Health data, Genetic information, Billing and financial data, Mental and behavioural data.
 
 Data can also be categorized into Personal identifiers of which include: Demographic data (names, addresses, date of birth, phone numbers,etc.), Identification numbers such as social security and driver's licenses, etc. And lastly financial data which can be credit card numbers or any other financial account.
