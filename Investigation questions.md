@@ -18,7 +18,13 @@ Yes regular hospitals in spain are also heabily reliant of rechnology and use he
    ---
    Answer 2
 
-   References:
+Technology is becoming a central part of many modern hospitals, including MedTechPro, with more than 80% of them utilizing electronic health records (EHRs) and approximately 60% utilizing connected devices such as patient monitors, imaging equipment, and wearable sensors. Nonetheless, the degree of technological adoption varies, with many hospitals struggling to keep up with obsolete systems, lack of interoperability, and disconnected data and thus cannot achieve the fully integrated, real-time "smart hospital" vision where all the devices, records, and workflows run perfectly together.
+
+   References: 
+   
+   https://wifitalents.com/healthcare-it-industry-statistics/
+   https://iphtechnologies.org/blog/healthcare-it-market-growth-trends-2024-2029
+   
 
  * Why assess specifically about that privacy of patient data?
  
