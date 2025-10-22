@@ -18,6 +18,7 @@ The bigger the number of marks the more are they going to rely in the ethical co
 - Outline what is understood by pretexting
 - Define the term overflow attack
 - Identify 2 reasons for implementing the Penetration Testing
+Penetration testing is done to analyse and find any vulnerabilities that exist inside the system. And after the vulnerability is found, we can try to fix them by understanding how a hacker found it and how did he use it
 - Outline what is understood by response plan 
 
 
