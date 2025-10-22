@@ -62,6 +62,8 @@ All patient data is worth protecting in the healthcare context, however data can
 
 Data can also be categorized into Personal identifiers of which include: Demographic data (names, addresses, date of birth, phone numbers,etc.), Identification numbers such as social security and driver's licenses, etc. And lastly financial data which can be credit card numbers or any other financial account.
 
+While patient data is the primary concern in healthcare, it is equally important to protect all forms of information that could identify or impact an individual or the organisation such as the ePHI and personal identifiers.
+
    References: 
    
    https://pmc.ncbi.nlm.nih.gov/articles/PMC12138216/#:~:text=Introduction,4
