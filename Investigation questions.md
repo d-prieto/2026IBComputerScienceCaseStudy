@@ -72,8 +72,7 @@ While patient data is the primary concern in healthcare, it is equally important
 
    References: 
    
-   https://pmc.ncbi.nlm.nih.gov/articles/PMC12138216/#:~:text=Introduction,4
-   
+   https://pmc.ncbi.nlm.nih.gov/articles/PMC12138216/   
    https://www.osano.com/articles/data-privacy-in-healthcare#:~:text=Healthcare%20companies%20inevitably%20accumulate%20large,consequences%20and%20diminished%20public%20confidence.
 
 ## About the penetration testing 
