@@ -294,6 +294,27 @@ https://github.com/paulveillard/cybersecurity-exploit-development/blob/main/READ
 
 
 ## SQL injection 
+SQL stands for Structured Query Language, it communicates with the database.
+
+SQL injection is a web-security vulnerability where an attacker manipulates an application’s input so that the application sends unexpected SQL to its database. 
+https://cwe.mitre.org/data/images/CWE-89-Diagram.png<img width="680" height="591" alt="image" src="https://github.com/user-attachments/assets/914d26b2-452c-4df4-b55f-c834b8944caf" />
+A succesful sql injection might allow the hacker to:
+
+-read sensitive data from the database
+
+-modify database data (Insert/Update/Delete)
+
+-execute administration operations on the database
+
+-issue commands to the operating system
+
+
+
+
+
+sources:
+https://owasp.org/www-community/attacks/SQL_Injection
+https://cwe.mitre.org/data/definitions/89.html
 
 ## Cross-site scripting (X-SS)
 
