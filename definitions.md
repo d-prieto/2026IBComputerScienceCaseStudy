@@ -438,11 +438,18 @@ A general structure for  the response plan is:
 
  <img width="1156" height="349" alt="imagen" src="https://github.com/user-attachments/assets/a83d2dc3-45fe-40d9-8adb-b9753669faa1"/>
 
+Incident detection: Incident detection and response are the process and activities involved in the identification, analysing, and reacting to potential security incidents within an organisation's IT infrastructure. Incident detection refers specifically to the continuous monitoring of an organisation's infrastructure to detect any signs of malicious activity.
 
+Response startegies: Response strategies are planned approaches used to manage and mitigate risks identified during a risk assessment process. These strategies can involve various methods such as avoidance, reduction, sharing, or acceptance of risks, aiming to minimize the negative impact of potential threats on objectives. The selection of a specific response strategy often depends on the nature of the risk, its potential impact, and the resources available for management.
+
+Recovery processes: The recovery process in Computer Science encompasses actions and mechanisms designed to restore systems to their natural state and operating configuration following disruptions, thereby ensuring system reliability, availability, and data integrity.
  
-
 References: 
 
 https://www.ncsc.gov.uk/collection/incident-management/cyber-incident-response-processes 
 
+https://docs.tenable.com/cyber-exposure-studies/nis-2-directive/Content/IncidentDetectionAndResponse.htm
 
+https://fiveable.me/key-terms/introduction-industrial-engineering/response-strategies
+
+https://www.sciencedirect.com/topics/computer-science/recovery-process
