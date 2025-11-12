@@ -318,30 +318,33 @@ https://cwe.mitre.org/data/definitions/89.html
 
 ## Cross-site scripting (X-SS)
 
-cross-site scripting(x-ss) is a security vulnerability presented by websites were this ones allows attacker to inject malicous client-sided scripts into webpages that are vulnerable nd frequently entered by clients, compormising the website and every data it is stored in the website, what this security vulnerability is seaking is to get the private cookies from users, credentias, and personal information that are stored in websites by users.
+Cross-site scripting(x-ss) is a security vulnerability presented by websites that allows attackers to inject malicous client-sided scripts into webpages that are vulnerable and frequently entered by clients, compormising the website and every data it is stored in the website. This security vulnerability is seeking to get private cookies from users, credentials, and personal information that are stored in the website by the users.
 
-is divided into 3 different steps.
+It is divided into 3 different steps.
 
-1.INJECTION: that is when the attacker enter the website and insert the malicious script(often javaScript)
+1.INJECTION: that is when the attacker enters the website and inserts the malicious script (often javaScript)
 
-2.EXECUTION:When a user enter the webpage and without the knowledege of the user the browser executes the maliciuos script without knowing.
+2.EXECUTION: When a user enters the webpage and without the knowledege of the user the browser executes the malicious script without knowing.
 
 3.EXPLOITATION:The attacker can then perform actions, such as stealing user cookies, redirecting users to malicious sites, or capturing login credentials.
 
 TYPES OF X-SS
 
-1.Reflected XSS Attacks
+1.Reflected XSS Attacks:
+
 Reflected attacks are those where the injected script is reflected off the web server, such as in an error message, search result, or any other response that includes some or all of the input sent to the server as part of the request.
 
-2.Stored XSS Attacks
+2.Stored XSS Attacks:
+
 Stored attacks are those where the injected script is permanently stored on the target servers, such as in a database, in a message forum, visitor log, comment field, etc. The victim then retrieves the malicious script from the server when it requests the stored information.
 
-3.Blind Cross-site Scripting
-Blind Cross-site Scripting is a form of persistent XSS. It generally occurs when the attacker’s payload saved on the server and reflected back to the victim from the backend application.
+3.Blind Cross-site Scripting:
+
+Blind Cross-site Scripting is a form of persistent XSS. It generally occurs when the attacker’s payload is saved on the server and reflected back to the victim from the backend application.
 
 In the context of a Hospital:
 
-the cybersecurity team should prevent XSS attacks in hospital systems because:
+The cybersecurity team should prevent XSS attacks in hospital systems because:
 
 Patient Data Security: Attackers could steal or compromise sensitive patient data (Electronic Health Records, billing info, etc.), violating privacy laws.
 
@@ -349,7 +352,7 @@ Device Malfunction: If connected medical devices (like patient monitors, infusio
 
 System Integrity: It could allow an attacker to impersonate staff, execute unauthorized commands, or disrupt hospital operations, which can be devastating in a critical care environment.
 
-sources:
+Sources:
 
 https://owasp.org/www-community/attacks/xss/
 
