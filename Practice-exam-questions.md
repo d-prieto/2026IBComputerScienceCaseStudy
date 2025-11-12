@@ -29,6 +29,7 @@ Penetration testing is done to analyse and find any vulnerabilities that exist i
 - Analyse the convinience of using a black box penetration testing approach for the given scenario 
 - Describe how can a penetration test in this context should approach reporting and responsiveness
 - Describe 2 different parts of a response plan
+- Explain how cross-site scripting (X-SS) can be used to exploit hospital machines that use IoT. 
 
 ## 6 Mark questions 
 
