@@ -143,8 +143,30 @@ Sources: https://en.wikipedia.org/wiki/IP_address
 
   
   ### Social engineering
-Using social knowledge to gain information.
-*(From class. Should be expanded)*
+Social engineering is the manipulation or deception of individuals to gain unauthorized access, information, or cause disruption, by exploiting human psychology rather than technical vulnerabilities. In hospitals or healthcare settings, social engineering is particularly important because it targets the trust and urgency inherent in medical environments, aiming to breach confidential patient data, disrupt operations, and commit fraud.​
+
+Why Social Engineering Matters for Hospitals
+
+-Hospitals hold large amounts of sensitive patient data (medical records, Social Security numbers, insurance details) that are extremely valuable to attackers for identity theft and financial fraud.​
+
+-Disruptions caused by social engineering attacks, especially through ransomware, can force hospitals to divert ambulances, postpone surgeries, and revert to manual care systems, endangering patient safety and creating major operational risks.​
+
+-Attackers exploit workplace stress, trust, and urgency—using methods such as impersonating staff, phishing hospital employees, or manipulating help desks to bypass security measures, even multifactor authentication.​
+
+-Successful attacks can result not just in data privacy breaches, but also in medical errors, care delays, and significant financial losses for hospitals, including declines in patient volume and reimbursement.​
+
+Common Attack Scenarios in Hospitals
+
+-Phishing emails designed to look like legitimate communications trick staff into clicking malicious links or revealing credentials.​
+
+-Voice-based attacks where criminals call help desks, impersonate employees, and gain access to systems by exploiting trust and emergency protocols.​
+
+-Manipulation of new device enrollments, allowing attackers to infiltrate hospital networks and perform payment fraud or data theft.​
+
+Resources
+
+https://www.hhs.gov/sites/default/files/social-engineering-targeting-the-hph-sector-tlpclear.pdf
+https://www.paubox.com/blog/the-impact-of-social-engineering-tactics-on-healthcare
 
   ### Asset (in the context of the case study)
 Generally, assets are something that you own. In the case of this case study, assets are valuable resources or components owned by the hospital that can be used by hackers or protected by cybersecurity experts. In out case assets are: Patient data, Medical devices, IoT equipment, network infrastructure of the hospital.
