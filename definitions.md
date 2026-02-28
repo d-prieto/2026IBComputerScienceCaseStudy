@@ -317,7 +317,7 @@ https://owasp.org/www-community/attacks/SQL_Injection
 https://cwe.mitre.org/data/definitions/89.html
 
 ## Cross-site scripting (X-SS)
-https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.spanning.com%2Fblog%2Fcross-site-scripting-web-based-application-security-part-3%2F&ved=0CBYQjRxqFwoTCMDh3sqD_ZIDFQAAAAAdAAAAABAH&opi=89978449 
+https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.spanning.com%2Fblog%2Fcross-site-scripting-web-based-application-security-part-3%2F&ved=0CBYQjRxqFwoTCMDh3sqD_ZIDFQAAAAAdAAAAABAH&opi=89978449![Uploading image.png…]()
 
 Cross-site scripting(x-ss) is a security vulnerability presented by websites that allows attackers to inject malicous client-sided scripts into webpages that are vulnerable and frequently entered by clients, compormising the website and every data it is stored in the website. This security vulnerability is seeking to get private cookies from users, credentials, and personal information that are stored in the website by the users.
 
