@@ -74,6 +74,9 @@ https://www.ibm.com/think/topics/osint
 ## Search engine dorking
 Using advanced search operators in the search engine to find publicly available information that should be private. This can include server credentials, private documents and databases that were incorrectly protected. This is similar to OSINT but designed to find information that was mistakenly made public. Originally, this technique was introduced to find insecurities in servers and prevent data breaches, but nowadays hackers exploit search engine dorking for malicious purposes. 
 
+examples: 
+the command "site:"  can find indexed files that are complicated to find through normal search-> f.x spare ( unintended ) pdfs can be found
+
 References:  
 
 https://www.forbes.com/sites/technology/article/google-dorking/ 
